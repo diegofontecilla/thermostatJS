@@ -6,7 +6,7 @@ To run the app on your machine, download the files and, on your terminal go to t
 
 To run the tests, 'open SpecRunner.html' on your terminal.
 
-## User Stories
+## Specifications
 
 thermostatJS works with the following specifications:
 
